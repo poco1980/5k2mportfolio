@@ -12,7 +12,7 @@ dhtmlxEvent(window,"load",function(){
 
     var dp = new dataProcessor("codebase/connector/update.php");
     dp.init(mygrid);
-    dp.setUodateMode("off")
+    dp.setUpdateMode("off")
     dp.sendData();
 
 });

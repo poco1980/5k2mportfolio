@@ -13,7 +13,8 @@
 	<div style="height: 150px;">
         
         <div id="mygrid_container" style="width:100%;height:250px;"></div>
-        <div id="toolbarObj"></div> 
+        <div id="toolbarObj"></div>
+        <div id="socket"></div>
 	</div>
  
     
